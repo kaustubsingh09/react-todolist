@@ -1,0 +1,20 @@
+.back {
+    background-color: rgb(39, 39, 45);
+    max-width: max-content;
+    margin: auto;
+    border-radius: 10px;
+}
+.head {
+    text-align: center;
+    color: beige;
+}
+
+.form-box {
+    border: 2px solid rgb(39, 39, 45);
+    border-radius: 10px;
+    max-width: max-content;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 25px;
+    background-color: rgb(61, 58, 53);
+}

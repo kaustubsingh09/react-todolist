@@ -1,0 +1,24 @@
+.task {
+  margin-right: 5px;
+}
+
+.btn {
+  margin-top: 3px;
+  padding: 5px;
+}
+
+.submit-btn {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.submit-btn:hover {
+  cursor: pointer;
+  background-color: aquamarine;
+}
+
+.error-box {
+  max-width: max-content;
+  background-color: aquamarine;
+  border-radius: 4px;
+  margin: auto;
+}
